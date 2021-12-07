@@ -1,0 +1,1120 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/7217d0e3-186b-57ce-9a32-6581a0fbd80c",
+      "url": "https://www.nytimes.com/live/2021/12/06/world/omicron-variant-covid/nyc-vaccine-mandate-deblasio",
+      "id": 100000008108048,
+      "asset_id": 100000008108048,
+      "source": "New York Times",
+      "published_date": "2021-12-06",
+      "updated": "2021-12-06 18:49:25",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Coronavirus Omicron Variant;Coronavirus (2019-nCoV);Vaccination and Immunization;de Blasio, Bill;New York City",
+      "column": null,
+      "byline": "By Emma G. Fitzsimmons",
+      "type": "Article",
+      "title": "New York City sets a sweeping vaccine mandate for all private employers.",
+      "abstract": "Mayor Bill de Blasio described the measure as a “pre-emptive strike” designed to stall another wave of coronavirus cases and help reduce transmission of the Omicron variant.",
+      "des_facet": [
+        "Coronavirus Omicron Variant",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization"
+      ],
+      "org_facet": [],
+      "per_facet": ["de Blasio, Bill"],
+      "geo_facet": ["New York City"],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6772302d-1db2-5fa3-8857-f51f7224f652",
+      "url": "https://www.nytimes.com/2021/12/05/us/michigan-shooting-parents.html",
+      "id": 100000008106690,
+      "asset_id": 100000008106690,
+      "source": "New York Times",
+      "published_date": "2021-12-05",
+      "updated": "2021-12-06 05:35:32",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "School Shootings and Armed Attacks;Oxford Charter Township, Mich, Shooting (2021);Gun Control;Crumbley, Ethan;Crumbley, James;Crumbley, Jennifer;Oxford High School (Oxford Charter Township, Mich);Oakland County (Mich);Oxford Charter Township (Mich)",
+      "column": null,
+      "byline": "By Sophie Kasakove and Susan Cooper Eastman",
+      "type": "Article",
+      "title": "Dramatic Day Reveals Details About the Parents of a School Shooting Suspect",
+      "abstract": "After a manhunt and an arraignment, scrutiny of James and Jennifer Crumbley has intensified.",
+      "des_facet": [
+        "School Shootings and Armed Attacks",
+        "Oxford Charter Township, Mich, Shooting (2021)",
+        "Gun Control"
+      ],
+      "org_facet": ["Oxford High School (Oxford Charter Township, Mich)"],
+      "per_facet": ["Crumbley, Ethan", "Crumbley, James", "Crumbley, Jennifer"],
+      "geo_facet": ["Oakland County (Mich)", "Oxford Charter Township (Mich)"],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/97985ea5-e1ba-5e4a-9476-958679f3f7cc",
+      "url": "https://www.nytimes.com/2021/12/05/upshot/abortion-without-roe-wade.html",
+      "id": 100000008106348,
+      "asset_id": 100000008106348,
+      "source": "New York Times",
+      "published_date": "2021-12-05",
+      "updated": "2021-12-06 10:33:05",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Abortion;Roe v Wade (Supreme Court Decision);Law and Legislation;Women and Girls;Birth Control and Family Planning;Federal-State Relations (US);Mifeprex (RU-486);Supreme Court (US);Texas;Mississippi;Missouri;North Dakota;Southern States (US);Midwestern States (US)",
+      "column": null,
+      "byline": "By Claire Cain Miller and Margot Sanger-Katz",
+      "type": "Article",
+      "title": "What an America Without Roe Would Look Like",
+      "abstract": "Legal abortions would fall, particularly among poor women in the South and Midwest, and out-of-state travel and abortion pills would play a bigger role.",
+      "des_facet": [
+        "Abortion",
+        "Roe v Wade (Supreme Court Decision)",
+        "Law and Legislation",
+        "Women and Girls",
+        "Birth Control and Family Planning",
+        "Federal-State Relations (US)",
+        "Mifeprex (RU-486)"
+      ],
+      "org_facet": ["Supreme Court (US)"],
+      "per_facet": [],
+      "geo_facet": [
+        "Texas",
+        "Mississippi",
+        "Missouri",
+        "North Dakota",
+        "Southern States (US)",
+        "Midwestern States (US)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/04/us/-promo-1638640887218/-promo-1638640887218-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/04/us/-promo-1638640887218/-promo-1638640887218-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/04/us/-promo-1638640887218/-promo-1638640887218-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/75317883-f1c6-52d8-a9bc-a85643f11822",
+      "url": "https://www.nytimes.com/2021/12/02/travel/omicron-variant-travel-decisions.html",
+      "id": 100000008101941,
+      "asset_id": 100000008101941,
+      "source": "New York Times",
+      "published_date": "2021-12-02",
+      "updated": "2021-12-06 11:34:59",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Travel and Vacations;Travel Warnings;Coronavirus (2019-nCoV);Coronavirus Omicron Variant;Coronavirus Risks and Safety Concerns",
+      "column": null,
+      "byline": "By Heather Murphy",
+      "type": "Article",
+      "title": "Omicron Is Here. Should You Cancel Your Trip?",
+      "abstract": "Most people have become used to making health-risk assessments during the pandemic, but that doesn’t make the decision about whether to travel or cancel easier — especially with a new variant circulating.",
+      "des_facet": [
+        "Travel and Vacations",
+        "Travel Warnings",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Omicron Variant",
+        "Coronavirus Risks and Safety Concerns"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Omicron’s seemingly unstoppable spread has once again created a sense of uncertainty among travelers. Above, watching a plane leave the Leonardo da Vinci airport near Rome, Italy, bound for Newark.",
+          "copyright": "Alessandra Tarantino/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/02/travel/00travel-indecision/00travel-indecision-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/02/travel/00travel-indecision/merlin_197515104_3c52dc84-da39-4ac3-b335-ca76ee1a2a9a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/02/travel/00travel-indecision/merlin_197515104_3c52dc84-da39-4ac3-b335-ca76ee1a2a9a-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/755c7465-e8bd-5495-8545-b91ffc2aeb3c",
+      "url": "https://www.nytimes.com/2021/12/06/world/africa/omicron-coronavirus-research-spread.html",
+      "id": 100000008108353,
+      "asset_id": 100000008108353,
+      "source": "New York Times",
+      "published_date": "2021-12-06",
+      "updated": "2021-12-06 23:22:53",
+      "section": "World",
+      "subsection": "Africa",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus Omicron Variant;Coronavirus (2019-nCoV);Research;Disease Rates;Vaccination and Immunization;World Health Organization;South Africa",
+      "column": null,
+      "byline": "By Lynsey Chutel, Richard Pérez-Peña and Emily Anthes",
+      "type": "Article",
+      "title": "Omicron Is Fast Moving, but Perhaps Less Severe, Early Reports Suggest",
+      "abstract": "Researchers in South Africa, where the variant is spreading quickly, say it may cause less serious Covid cases than other forms of the virus, but it is unclear whether that will hold true.",
+      "des_facet": [
+        "Coronavirus Omicron Variant",
+        "Coronavirus (2019-nCoV)",
+        "Research",
+        "Disease Rates",
+        "Vaccination and Immunization"
+      ],
+      "org_facet": ["World Health Organization"],
+      "per_facet": [],
+      "geo_facet": ["South Africa"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vaccination site in Johannesburg, South Africa.",
+          "copyright": "Joao Silva/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06virus-safrica3/06virus-safrica3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06virus-safrica3/06virus-safrica3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06virus-safrica3/06virus-safrica3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7614690b-2c1b-5a54-bb98-8b309cca1a52",
+      "url": "https://www.nytimes.com/2021/12/05/opinion/gentrification-los-angeles-little-library.html",
+      "id": 100000008097540,
+      "asset_id": 100000008097540,
+      "source": "New York Times",
+      "published_date": "2021-12-05",
+      "updated": "2021-12-06 23:32:16",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Gentrification;Black People;Libraries and Librarians;Real Estate and Housing (Residential);Race and Ethnicity;Los Angeles (Calif);Inglewood (Calif);Bruce's Beach (Manhattan Beach, Calif);Manhattan Beach (Calif)",
+      "column": null,
+      "byline": "By Erin Aubry Kaplan",
+      "type": "Article",
+      "title": "Is My Little Library Contributing to the Gentrification of My Black Neighborhood?",
+      "abstract": "Thoughts I had as I watched a white couple browsing books.",
+      "des_facet": [
+        "Gentrification",
+        "Black People",
+        "Libraries and Librarians",
+        "Real Estate and Housing (Residential)",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Los Angeles (Calif)",
+        "Inglewood (Calif)",
+        "Bruce's Beach (Manhattan Beach, Calif)",
+        "Manhattan Beach (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Erin Aubry Kaplan in her home in Inglewood, Calif.",
+          "copyright": "Tergo for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/07/opinion/05kaplan_2/05kaplan_2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/07/opinion/05kaplan_2/05kaplan_2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/07/opinion/05kaplan_2/05kaplan_2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/acbc8420-8ff3-59c6-9e99-8e865b11505b",
+      "url": "https://www.nytimes.com/2021/12/05/us/politics/bob-dole-dead.html",
+      "id": 100000006681205,
+      "asset_id": 100000006681205,
+      "source": "New York Times",
+      "published_date": "2021-12-05",
+      "updated": "2021-12-06 06:03:39",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Deaths (Obituaries);United States Politics and Government;Presidential Election of 1996;World War II (1939-45);Dole, Bob;Senate;Republican Party;Kansas",
+      "column": null,
+      "byline": "By Katharine Q. Seelye",
+      "type": "Article",
+      "title": "Bob Dole, Old Soldier and Stalwart of the Senate, Dies at 98",
+      "abstract": "Mr. Dole, a son of the Kansas prairie who was left for dead on a World War II battlefield, became one of the longest-serving Republican leaders.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "United States Politics and Government",
+        "Presidential Election of 1996",
+        "World War II (1939-45)"
+      ],
+      "org_facet": ["Senate", "Republican Party"],
+      "per_facet": ["Dole, Bob"],
+      "geo_facet": ["Kansas"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bob Dole in 1996. He was the last of the World War II generation to win the Republican nomination for president.",
+          "copyright": "Stephen Crowley/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/04/obituaries/00Dole-Obit-new/00Dole-Obit-new-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/04/obituaries/00Dole-Obit-new/00Dole-Obit-new-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/04/obituaries/00Dole-Obit-new/00Dole-Obit-new-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dc28caca-4599-501f-945a-5d49756c7ca9",
+      "url": "https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html",
+      "id": 100000008102225,
+      "asset_id": 100000008102225,
+      "source": "New York Times",
+      "published_date": "2021-12-05",
+      "updated": "2021-12-06 16:15:27",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Social Media;Politics and Government;Video Recordings, Downloads and Streaming;Data-Mining and Database Marketing;Mobile Applications;Artificial Intelligence;Privacy;Children and Childhood;Trump, Donald J;TikTok (ByteDance);Beijing Bytedance Technology Co Ltd;Douyin (ByteDance);China;United States",
+      "column": null,
+      "byline": "By Ben Smith",
+      "type": "Article",
+      "title": "How TikTok Reads Your Mind",
+      "abstract": "It’s the most successful video app in the world. Our columnist has obtained an internal company document that offers a new level of detail about how the algorithm works.",
+      "des_facet": [
+        "Social Media",
+        "Politics and Government",
+        "Video Recordings, Downloads and Streaming",
+        "Data-Mining and Database Marketing",
+        "Mobile Applications",
+        "Artificial Intelligence",
+        "Privacy",
+        "Children and Childhood"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)",
+        "Beijing Bytedance Technology Co Ltd",
+        "Douyin (ByteDance)"
+      ],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": ["China", "United States"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lionel Bonaventure/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/business/05bensmith-01/merlin_193626909_b852af39-4c3e-4467-b0bb-0e5cf87bd1f2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/business/05bensmith-01/merlin_193626909_b852af39-4c3e-4467-b0bb-0e5cf87bd1f2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/business/05bensmith-01/merlin_193626909_b852af39-4c3e-4467-b0bb-0e5cf87bd1f2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dbcdd77c-4272-51d5-af56-7abff9faf53a",
+      "url": "https://www.nytimes.com/2021/12/04/business/media/chris-cuomo-fired-cnn.html",
+      "id": 100000008105907,
+      "asset_id": 100000008105907,
+      "source": "New York Times",
+      "published_date": "2021-12-04",
+      "updated": "2021-12-05 12:20:19",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "News and News Media;Television;Sexual Harassment;Ethics and Official Misconduct;Cuomo, Christopher;Cuomo, Andrew M;Zucker, Jeff;CNN",
+      "column": null,
+      "byline": "By Michael M. Grynbaum, John Koblin and Jodi Kantor",
+      "type": "Article",
+      "title": "CNN Fires Chris Cuomo Amid Inquiry Into His Efforts to Aid His Brother",
+      "abstract": "The network said it had “terminated him, effective immediately,” a move that came days after a lawyer for a former colleague accused the host of sexual misconduct.",
+      "des_facet": [
+        "News and News Media",
+        "Television",
+        "Sexual Harassment",
+        "Ethics and Official Misconduct"
+      ],
+      "org_facet": ["CNN"],
+      "per_facet": ["Cuomo, Christopher", "Cuomo, Andrew M", "Zucker, Jeff"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Cuomo, the top-rated anchor at CNN, had built a successful broadcast career outside of his famed political family.",
+          "copyright": "Mike Blake/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/04/multimedia/00cnn-cuomo-1/00cnn-cuomo-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/04/multimedia/00cnn-cuomo-1/00cnn-cuomo-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/04/multimedia/00cnn-cuomo-1/00cnn-cuomo-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2f25a8fa-aa20-5305-b9a1-179d445c5b7c",
+      "url": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html",
+      "id": 100000008005404,
+      "asset_id": 100000008005404,
+      "source": "New York Times",
+      "published_date": "2021-12-06",
+      "updated": "2021-12-06 23:31:44",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Driverless and Semiautonomous Vehicles;Automobile Safety Features and Defects;Engineering and Engineers;Sensors;Radar;Cameras;Electric and Hybrid Vehicles;audio-neutral-informative;Musk, Elon;Tesla Motors Inc",
+      "column": null,
+      "byline": "By Cade Metz and Neal E. Boudette",
+      "type": "Article",
+      "title": "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars",
+      "abstract": "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say.",
+      "des_facet": [
+        "Driverless and Semiautonomous Vehicles",
+        "Automobile Safety Features and Defects",
+        "Engineering and Engineers",
+        "Sensors",
+        "Radar",
+        "Cameras",
+        "Electric and Hybrid Vehicles",
+        "audio-neutral-informative"
+      ],
+      "org_facet": ["Tesla Motors Inc"],
+      "per_facet": ["Musk, Elon"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Tesla using Autopilot navigated a morning rush hour in Los Angeles.",
+          "copyright": "Mike Blake/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/07/business/07tesla-autopilot1/00tesla-autopilot01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/07/business/07tesla-autopilot1/00tesla-autopilot01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/07/business/07tesla-autopilot1/00tesla-autopilot01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4a8ba125-8433-512a-9863-6df4a6a9ce20",
+      "url": "https://www.nytimes.com/2021/12/06/movies/best-movies.html",
+      "id": 100000008093397,
+      "asset_id": 100000008093397,
+      "source": "New York Times",
+      "published_date": "2021-12-06",
+      "updated": "2021-12-06 09:59:43",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Two Thousand Twenty One",
+      "column": null,
+      "byline": "By A.O. Scott and Manohla Dargis",
+      "type": "Article",
+      "title": "Best Movies of 2021",
+      "abstract": "Even when a film wasn’t great, filmgoing was. But there were some truly wonderful releases, ranging from music docs and musicals to westerns and the just plain weird.",
+      "des_facet": ["Movies", "Two Thousand Twenty One"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Benedict Cumberbatch in “The Power of the Dog,” left, Kristen Stewart in “Spencer” and Ariana DeBose in “West Side Story.”",
+          "copyright": "From left: Kirsty Griffin/Netflix; Pablo Larrain/Neon; Niko Tavernise/20th Century Studios",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/arts/06best-movies-2021/06best-movies-2021-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/arts/06best-movies-2021/06best-movies-2021-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/arts/06best-movies-2021/06best-movies-2021-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d94159bf-740f-52f3-9cb5-bfe0997adeb8",
+      "url": "https://www.nytimes.com/2021/12/05/world/europe/virus-europe-omicron-variant-restrictions.html",
+      "id": 100000008107207,
+      "asset_id": 100000008107207,
+      "source": "New York Times",
+      "published_date": "2021-12-05",
+      "updated": "2021-12-06 10:51:15",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus Omicron Variant;Coronavirus (2019-nCoV);Quarantines;Travel Warnings;Disease Rates;Europe;Great Britain;Denmark",
+      "column": null,
+      "byline": "By Megan Specia and Isabella Kwai",
+      "type": "Article",
+      "title": "Spike in Omicron Variant Cases Puts Europe on Edge",
+      "abstract": "With cases of the Omicron variant rising in Europe, there are worries that even tougher restrictions are looming over a holiday period that many had hoped would be a return to some normalcy.",
+      "des_facet": [
+        "Coronavirus Omicron Variant",
+        "Coronavirus (2019-nCoV)",
+        "Quarantines",
+        "Travel Warnings",
+        "Disease Rates"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Europe", "Great Britain", "Denmark"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shoppers on Oxford Street in London on Sunday.",
+          "copyright": "Henry Nicholls/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/world/05virus-uk1/05virus-uk1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/world/05virus-uk1/merlin_198810816_40a84020-6039-4230-b990-65c6bda37315-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/world/05virus-uk1/merlin_198810816_40a84020-6039-4230-b990-65c6bda37315-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4cd1a7ad-184f-5f1c-9aca-8a033eaa2de4",
+      "url": "https://www.nytimes.com/2021/12/06/crosswords/spelling-bee-forum.html",
+      "id": 100000008105436,
+      "asset_id": 100000008105436,
+      "source": "New York Times",
+      "published_date": "2021-12-06",
+      "updated": "2021-12-06 03:00:03",
+      "section": "Crosswords \u0026 Games",
+      "subsection": "",
+      "nytdsection": "crosswords \u0026 games",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Isaac Aronow and Doug Mennella",
+      "type": "Article",
+      "title": "Spelling Bee Forum",
+      "abstract": "Feeling stuck on today’s puzzle? We can help.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bees crawl on a tree.",
+          "copyright": " BEN STANSALL/AFP via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/crosswords/06bee-forum-mon/06bee-forum-mon-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/crosswords/06bee-forum-mon/06bee-forum-mon-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/crosswords/06bee-forum-mon/06bee-forum-mon-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ac47db53-98fd-59b2-9042-7450dfc44355",
+      "url": "https://www.nytimes.com/2021/12/05/world/europe/putin-russia-ukraine-troops.html",
+      "id": 100000008106565,
+      "asset_id": 100000008106565,
+      "source": "New York Times",
+      "published_date": "2021-12-05",
+      "updated": "2021-12-06 09:20:14",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Defense and Military Forces;United States International Relations;International Relations;Biden, Joseph R Jr;Putin, Vladimir V;Navalny, Aleksei A;North Atlantic Treaty Organization;Russia;Ukraine;Crimea (Ukraine)",
+      "column": null,
+      "byline": "By Anton Troianovski",
+      "type": "Article",
+      "title": "What’s Driving Putin’s Ukraine Brinkmanship?",
+      "abstract": "There are tactical reasons for threatening an invasion, but the real cause may lie in the Kremlin’s fixation with righting what it sees as a historical injustice.",
+      "des_facet": [
+        "Defense and Military Forces",
+        "United States International Relations",
+        "International Relations"
+      ],
+      "org_facet": ["North Atlantic Treaty Organization"],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Putin, Vladimir V",
+        "Navalny, Aleksei A"
+      ],
+      "geo_facet": ["Russia", "Ukraine", "Crimea (Ukraine)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia watching a military exercise in September.",
+          "copyright": "Pool photo by Sergei Savostyanov",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/world/05putin-ukraine1/05putin-ukraine1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/world/05putin-ukraine1/05putin-ukraine1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/world/05putin-ukraine1/05putin-ukraine1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e79fe25a-cd89-56a1-9a45-1d445cff1e35",
+      "url": "https://www.nytimes.com/2021/12/06/sports/horse-racing/medina-spirit-dies.html",
+      "id": 100000008108393,
+      "asset_id": 100000008108393,
+      "source": "New York Times",
+      "published_date": "2021-12-06",
+      "updated": "2021-12-07 00:11:16",
+      "section": "Sports",
+      "subsection": "Horse Racing",
+      "nytdsection": "sports",
+      "adx_keywords": "Kentucky Derby;Doping (Sports);Horse Racing;Baffert, Bob;Santa Anita Park (Calif);California Horse Racing Board;Churchill Downs Inc",
+      "column": null,
+      "byline": "By Joe Drape",
+      "type": "Article",
+      "title": "Medina Spirit, an Embattled Kentucky Derby Winner, Dies During a Workout",
+      "abstract": "The colt suffered an apparent heart attack while working out at the Santa Anita Park racetrack. California racing officials pledged to do a necropsy and make their findings public.",
+      "des_facet": ["Kentucky Derby", "Doping (Sports)", "Horse Racing"],
+      "org_facet": [
+        "Santa Anita Park (Calif)",
+        "California Horse Racing Board",
+        "Churchill Downs Inc"
+      ],
+      "per_facet": ["Baffert, Bob"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Medina Spirit won the Kentucky Derby in May and was later found to have failed a drug test.",
+          "copyright": "Jeff Roberson/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/07/sports/06medinaspirit-print/06medinaspirit-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/07/sports/06medinaspirit-print/merlin_198732972_98676986-7051-4484-a134-334d3a786559-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/07/sports/06medinaspirit-print/merlin_198732972_98676986-7051-4484-a134-334d3a786559-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0b11727f-cc53-55ef-9727-521f33e34ef0",
+      "url": "https://www.nytimes.com/2021/12/06/movies/alana-haim-licorice-pizza.html",
+      "id": 100000008104589,
+      "asset_id": 100000008104589,
+      "source": "New York Times",
+      "published_date": "2021-12-06",
+      "updated": "2021-12-06 14:20:22",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Pop and Rock Music;Actors and Actresses;Content Type: Personal Profile;Haim, Alana;Anderson, Paul Thomas;Haim (Music Group)",
+      "column": null,
+      "byline": "By Lindsay Zoladz",
+      "type": "Article",
+      "title": "Alana Haim Surprised Everyone With Her Movie Debut. Even Herself.",
+      "abstract": "When Paul Thomas Anderson asked her to star in “Licorice Pizza,” the musician had zero acting experience. Now she’s winning rave reviews.",
+      "des_facet": [
+        "Movies",
+        "Pop and Rock Music",
+        "Actors and Actresses",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": ["Haim (Music Group)"],
+      "per_facet": ["Haim, Alana", "Anderson, Paul Thomas"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alana Haim said yes immediately to “Licorice Pizza.” A few hours later the doubts crept in. “What if I’m just terrible?” she remembers thinking.",
+          "copyright": "Josefina Santos for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/arts/06alana-haim2/06alana-haim2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/arts/06alana-haim2/06alana-haim2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/arts/06alana-haim2/06alana-haim2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/79dc1cd8-3c47-57cf-acdb-17c130c485a8",
+      "url": "https://www.nytimes.com/2021/12/06/us/politics/trump-covid-blood-oxygen.html",
+      "id": 100000008108631,
+      "asset_id": 100000008108631,
+      "source": "New York Times",
+      "published_date": "2021-12-06",
+      "updated": "2021-12-07 00:00:48",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "White House Coronavirus Outbreak (2020);Coronavirus (2019-nCoV);Oxygen;United States Politics and Government;Books and Literature;Meadows, Mark R (1959- );Trump, Donald J;Regeneron Pharmaceuticals Inc;Reed, Walter, National Military Medical Center",
+      "column": null,
+      "byline": "By Maggie Haberman and Noah Weiland",
+      "type": "Article",
+      "title": "Trump’s Blood Oxygen Level in Covid Bout Was Dangerously Low, Former Aide Says",
+      "abstract": "Mark Meadows, Mr. Trump’s former chief of staff, said in his new book that the weakened president’s blood oxygen level reached 86 during a harrowing fight against the coronavirus.",
+      "des_facet": [
+        "White House Coronavirus Outbreak (2020)",
+        "Coronavirus (2019-nCoV)",
+        "Oxygen",
+        "United States Politics and Government",
+        "Books and Literature"
+      ],
+      "org_facet": [
+        "Regeneron Pharmaceuticals Inc",
+        "Reed, Walter, National Military Medical Center"
+      ],
+      "per_facet": ["Meadows, Mark R (1959- )", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mark Meadows, the White House chief of staff, spoke to reporters at Walter Reed National Military Medical Center in October 2020, after President Donald J. Trump was hospitalized with the coronavirus.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/us/politics/06dc-meadows-1/06dc-meadows-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/us/politics/06dc-meadows-1/merlin_177999378_0ddeb126-e014-4965-b2bb-9d6170e04dec-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/us/politics/06dc-meadows-1/merlin_177999378_0ddeb126-e014-4965-b2bb-9d6170e04dec-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/695d6348-43e1-52a1-a9d1-abff2b402d38",
+      "url": "https://www.nytimes.com/article/omicron-coronavirus-variant.html",
+      "id": 100000008096707,
+      "asset_id": 100000008096707,
+      "source": "New York Times",
+      "published_date": "2021-11-30",
+      "updated": "2021-12-06 17:54:42",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus Omicron Variant;Coronavirus Risks and Safety Concerns;Coronavirus (2019-nCoV);Vaccination and Immunization;Disease Rates;Travel Warnings;Antibodies;Immune System;World Health Organization",
+      "column": null,
+      "byline": "By Andrew Jacobs and Emily Anthes",
+      "type": "Article",
+      "title": "Omicron: What We Know About the New Coronavirus Variant",
+      "abstract": "Intense research into Omicron, first identified in southern Africa, has just begun. World leaders and public health experts have urged people not to panic — and to get vaccinated, if they can.",
+      "des_facet": [
+        "Coronavirus Omicron Variant",
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Disease Rates",
+        "Travel Warnings",
+        "Antibodies",
+        "Immune System"
+      ],
+      "org_facet": ["World Health Organization"],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A woman receiving a Covid shot vaccine at a center in Soweto, South Africa. ",
+          "copyright": "Denis Farrell/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/11/29/29virus-omicron-1/29virus-omicron-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/11/29/29virus-omicron-1/29virus-omicron-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/11/29/29virus-omicron-1/29virus-omicron-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ea3066d5-b839-5c49-beeb-f8eb5f35c92b",
+      "url": "https://www.nytimes.com/2021/12/04/nyregion/cream-cheese-shortage-nyc-bagels.html",
+      "id": 100000008105747,
+      "asset_id": 100000008105747,
+      "source": "New York Times",
+      "published_date": "2021-12-04",
+      "updated": "2021-12-05 00:12:45",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Bagels;Cheese;Shortages;Quarantine (Life and Culture);New York City",
+      "column": null,
+      "byline": "By Ashley Wong",
+      "type": "Article",
+      "title": "How a Cream Cheese Shortage Is Affecting N.Y.C. Bagel Shops",
+      "abstract": "Supply chain problems that have hit businesses across the country now threaten a quintessential New York treat.",
+      "des_facet": [
+        "Bagels",
+        "Cheese",
+        "Shortages",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["New York City"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Preparing a smoked salmon and cream cheese bagel at Tompkins Square Bagels in Manhattan. The owner was stunned to learn that a large cream cheese order expected on Friday would not arrive.",
+          "copyright": "Adam Friedlander for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/nyregion/05nybagels-print3/04nybagels-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/nyregion/05nybagels-print3/merlin_198731739_b1a630a8-9ad6-44ff-a020-ab7968b85839-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/05/nyregion/05nybagels-print3/merlin_198731739_b1a630a8-9ad6-44ff-a020-ab7968b85839-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9ec430ae-0059-578e-b12a-a967f9b04127",
+      "url": "https://www.nytimes.com/2021/12/06/arts/music/olivia-rodrigo-taylor-swift-grammy-nomination.html",
+      "id": 100000008108229,
+      "asset_id": 100000008108229,
+      "source": "New York Times",
+      "published_date": "2021-12-06",
+      "updated": "2021-12-06 17:11:13",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Pop and Rock Music;Grammy Awards;Antonoff, Jack;Rodrigo, Olivia (2003- );St Vincent (1982- );Swift, Taylor;Paramore (Music Group)",
+      "column": null,
+      "byline": "By Ben Sisario",
+      "type": "Article",
+      "title": "Grammys Remove Taylor Swift and Others From Olivia Rodrigo Nomination",
+      "abstract": "Swift, Jack Antonoff and St. Vincent are credited on “Sour,” but the awards don’t count interpolations — rerecorded quotations from other songs — toward album of the year consideration.",
+      "des_facet": ["Pop and Rock Music", "Grammy Awards"],
+      "org_facet": ["Paramore (Music Group)"],
+      "per_facet": [
+        "Antonoff, Jack",
+        "Rodrigo, Olivia (2003- )",
+        "St Vincent (1982- )",
+        "Swift, Taylor"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Rodrigo’s “Sour” is up for seven awards at the 2022 Grammys, including album of the year. But not all songwriters credited on the LP are eligible for the album honor.",
+          "copyright": "Chris Pizzello/Invision",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06grammy/06grammy-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06grammy/06grammy-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06grammy/06grammy-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
