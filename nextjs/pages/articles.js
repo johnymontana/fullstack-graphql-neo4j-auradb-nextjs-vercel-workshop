@@ -19,7 +19,7 @@ const Articles = () => {
         {data?.articles.map((v) => {
           return (
             <li key={v.url}>
-              <a href={v.url} target="_blank">
+              <a href={v.url} target="_blank" rel="noreferrer">
                 {v.title}
               </a>
             </li>
