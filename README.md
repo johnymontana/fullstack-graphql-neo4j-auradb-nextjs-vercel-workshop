@@ -1,10 +1,8 @@
 # Full Stack GraphQL In The Cloud With Neo4j AuraDB, Next.js, & Vercel Workshop
 
-![](img/banner.png)
+Slides: [dev.neo4j.com/fullstack-graphql-workshop](https://dev.neo4j.com/fullstack-graphql-workshop)
 
-Slides: [dev.neo4j.com/fullstack-graphql-workshop
-](https://dev.neo4j.com/fullstack-graphql-workshop
-)
+![](img/banner.png)
 
 ## Outline
 
